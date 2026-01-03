@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.cpp": "cpp",
+    "unordered_map": "cpp",
+    "__hash_table": "cpp",
+    "list": "cpp"
+  }
+}

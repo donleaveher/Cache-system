@@ -1,0 +1,3 @@
+/Users/tourbillion/缓存池/build/CMakeFiles/main.dir
+/Users/tourbillion/缓存池/build/CMakeFiles/edit_cache.dir
+/Users/tourbillion/缓存池/build/CMakeFiles/rebuild_cache.dir

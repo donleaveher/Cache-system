@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/tourbillion/缓存池/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -arch arm64 -o CMakeFiles/main.dir/testAllCachePolicy.cpp.o -c /Users/tourbillion/缓存池/testAllCachePolicy.cpp",
+  "file": "/Users/tourbillion/缓存池/testAllCachePolicy.cpp",
+  "output": "CMakeFiles/main.dir/testAllCachePolicy.cpp.o"
+}
+]
